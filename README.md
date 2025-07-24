@@ -1,2 +1,2 @@
 # accidentes-argentina
-Análisis de hechos y victimas de muertes viales en la República Argentina.
+Análisis de hechos y víctimas de muertes viales en la República Argentina.
